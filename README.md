@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
+
+
 <div align="center">
-<img src="https://images.app.goo.gl/kQ9G91BoTws2A3Xs9" align="center" style="width: 100%" />
+<img src="https://github.com/ShwethaSureshKumar/testing/blob/main/hello-hi.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -105,5 +107,4 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rx8pluksbiqgextgxdfq0on94&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
