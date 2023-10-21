@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src="https://github.com/ShwethaSureshKumar/testing/blob/main/hello-hi.gif" align="center" style="width: 100%" />
+<img src="https://github.com/ShwethaSureshKumar/testing/blob/main/hello-hi.gif" align="center" style="width: 50%" />
 </div>  
   
 
