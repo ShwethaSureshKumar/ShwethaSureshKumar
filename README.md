@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Trip planning java app<br>👯 I’m looking to collaborate on challenging packages<br>🤝 I’m looking for help with full-stack frameworks<br>🌱 I’m currently learning about CSS and JavaScript<br>⚡ Fun fact about me : Great at spacing out and laughing at inappropriate times 🩻
+🔭 I’m currently learning React<br>👯 I’m looking to collaborate on challenging packages<br>🤝 I’m looking for help with full-stack frameworks<br>🌱 I’m currently learning about CSS and JavaScript<br>⚡ Fun fact about me : Great at spacing out and laughing at inappropriate times 🩻
 
 
 ## 🌐 Socials:
